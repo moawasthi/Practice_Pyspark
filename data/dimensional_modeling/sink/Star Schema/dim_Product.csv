@@ -1,0 +1,21 @@
+ProductId,Product Name,Product Condition,Used Condition,Product Condition Changed
+1,Gaming Mouse,New,N/A,New
+2,Gaming Mouse,Used - Good,Good,Used
+3,Gaming Mouse,Used - Like New,Like New,Used
+4,Gaming Mouse,Refurbished,N/A,Refurbished
+5,Mechanical Keyboard,Used - Good,Good,Used
+6,Mechanical Keyboard,Used - Like New,Like New,Used
+7,Mechanical Keyboard,New,N/A,New
+8,Mechanical Keyboard,Refurbished,N/A,Refurbished
+9,Smartphone Case,Used - Like New,Like New,Used
+10,Smartphone Case,Refurbished,N/A,Refurbished
+11,Smartphone Case,Used - Good,Good,Used
+12,Smartphone Case,New,N/A,New
+13,USB-C Charger,New,N/A,New
+14,USB-C Charger,Used - Like New,Like New,Used
+15,USB-C Charger,Used - Good,Good,Used
+16,USB-C Charger,Refurbished,N/A,Refurbished
+17,Wireless Headphones,Refurbished,N/A,Refurbished
+18,Wireless Headphones,Used - Like New,Like New,Used
+19,Wireless Headphones,New,N/A,New
+20,Wireless Headphones,Used - Good,Good,Used

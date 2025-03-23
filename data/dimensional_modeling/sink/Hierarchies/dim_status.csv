@@ -1,0 +1,10 @@
+StatusId,Order Status,Shipment Status
+1,Cancelled,Delivered
+2,Cancelled,In Transit
+3,Cancelled,Pending
+4,Pending,Delivered
+5,Pending,In Transit
+6,Pending,Pending
+7,Shipped,Delivered
+8,Shipped,In Transit
+9,Shipped,Pending

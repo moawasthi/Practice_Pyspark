@@ -1,0 +1,63 @@
+Employee_ID,Employee_Name,Role,Parent_ID,Country
+CH-001,CH_Name_1,Country Head,null,USA
+CH-002,CH_Name_2,Country Head,null,UK
+CH-003,CH_Name_3,Country Head,null,Germany
+SM-001,SM_Name_1,Store Manager,CH-001,USA
+SM-002,SM_Name_2,Store Manager,CH-001,USA
+SM-003,SM_Name_3,Store Manager,CH-002,UK
+SM-004,SM_Name_4,Store Manager,CH-002,UK
+SM-005,SM_Name_5,Store Manager,CH-003,Germany
+MG-001,MG_Name_1,Manager,SM-001,USA
+MG-002,MG_Name_2,Manager,SM-001,USA
+MG-003,MG_Name_3,Manager,SM-001,USA
+MG-004,MG_Name_4,Manager,SM-002,USA
+MG-005,MG_Name_5,Manager,SM-002,USA
+MG-006,MG_Name_6,Manager,SM-002,USA
+MG-007,MG_Name_7,Manager,SM-003,UK
+MG-008,MG_Name_8,Manager,SM-003,UK
+MG-009,MG_Name_9,Manager,SM-003,UK
+MG-010,MG_Name_0,Manager,SM-004,UK
+MG-011,MG_Name_1,Manager,SM-004,UK
+MG-012,MG_Name_2,Manager,SM-004,UK
+MG-013,MG_Name_3,Manager,SM-005,Germany
+MG-014,MG_Name_4,Manager,SM-005,Germany
+SP-001,SP_Name_1,Salesperson,MG-001,USA
+SP-002,SP_Name_2,Salesperson,MG-001,USA
+SP-003,SP_Name_3,Salesperson,MG-001,USA
+SP-004,SP_Name_4,Salesperson,MG-002,USA
+SP-005,SP_Name_5,Salesperson,MG-002,USA
+SP-006,SP_Name_6,Salesperson,MG-002,USA
+SP-007,SP_Name_7,Salesperson,MG-003,USA
+SP-008,SP_Name_8,Salesperson,MG-003,USA
+SP-009,SP_Name_9,Salesperson,MG-003,USA
+SP-010,SP_Name_0,Salesperson,MG-004,USA
+SP-011,SP_Name_1,Salesperson,MG-004,USA
+SP-012,SP_Name_2,Salesperson,MG-004,USA
+SP-013,SP_Name_3,Salesperson,MG-005,USA
+SP-014,SP_Name_4,Salesperson,MG-005,USA
+SP-015,SP_Name_5,Salesperson,MG-005,USA
+SP-016,SP_Name_6,Salesperson,MG-006,USA
+SP-017,SP_Name_7,Salesperson,MG-006,USA
+SP-018,SP_Name_8,Salesperson,MG-006,USA
+SP-019,SP_Name_9,Salesperson,MG-007,UK
+SP-020,SP_Name_0,Salesperson,MG-007,UK
+SP-021,SP_Name_1,Salesperson,MG-007,UK
+SP-022,SP_Name_2,Salesperson,MG-008,UK
+SP-023,SP_Name_3,Salesperson,MG-008,UK
+SP-024,SP_Name_4,Salesperson,MG-008,UK
+SP-025,SP_Name_5,Salesperson,MG-009,UK
+SP-026,SP_Name_6,Salesperson,MG-009,UK
+SP-027,SP_Name_7,Salesperson,MG-009,UK
+SP-028,SP_Name_8,Salesperson,MG-010,UK
+SP-029,SP_Name_9,Salesperson,MG-010,UK
+SP-030,SP_Name_0,Salesperson,MG-010,UK
+SP-031,SP_Name_1,Salesperson,MG-011,UK
+SP-032,SP_Name_2,Salesperson,MG-011,UK
+SP-033,SP_Name_3,Salesperson,MG-011,UK
+SP-034,SP_Name_4,Salesperson,MG-012,UK
+SP-035,SP_Name_5,Salesperson,MG-012,UK
+SP-036,SP_Name_6,Salesperson,MG-012,UK
+SP-037,SP_Name_7,Salesperson,MG-013,Germany
+SP-038,SP_Name_8,Salesperson,MG-013,Germany
+SP-039,SP_Name_9,Salesperson,MG-013,Germany
+SP-040,SP_Name_0,Salesperson,MG-014,Germany
