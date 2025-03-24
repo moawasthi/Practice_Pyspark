@@ -1,5 +1,4 @@
 PaymentTypeId,Payment Type
-1,Bank Transfer
-2,Credit Card
-3,Gift Card
-4,PayPal
+1,Credit Card
+2,Debit Card
+3,PayPal

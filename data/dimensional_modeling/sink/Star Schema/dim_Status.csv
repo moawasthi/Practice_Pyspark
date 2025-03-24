@@ -1,21 +1,10 @@
 StatusId,Order Status,Shipment Status
-1,Cancelled,Delivered
-2,Cancelled,In Transit
-3,Cancelled,Out for Delivery
-4,Cancelled,Pending
-5,Delivered,Delivered
-6,Delivered,In Transit
-7,Delivered,Out for Delivery
-8,Delivered,Pending
-9,Pending,Delivered
-10,Pending,In Transit
-11,Pending,Out for Delivery
-12,Pending,Pending
-13,Returned,Delivered
-14,Returned,In Transit
-15,Returned,Out for Delivery
-16,Returned,Pending
-17,Shipped,Delivered
-18,Shipped,In Transit
-19,Shipped,Out for Delivery
-20,Shipped,Pending
+1,Pending,Delivered
+2,Pending,In Transit
+3,Pending,Pending
+4,Processing,Delivered
+5,Processing,In Transit
+6,Processing,Pending
+7,Shipped,Delivered
+8,Shipped,In Transit
+9,Shipped,Pending
