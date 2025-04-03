@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,Phone,Address,City,Country,CreatedAt
+1001,John,Doe,john.doe@email.com,+1-555-123456,123 Elm St,New York,USA,2024-12-01 10:15:30
+1002,Alice,Smith,alice.smith@email.com,+44-777-654321,45 Baker St,London,UK,2024-11-25 14:05:10
+1003,Raj,Kumar,raj.kumar@email.com,+91-98765-4321,78 MG Road,Mumbai,India,2024-10-18 09:30:45
+1004,Maria,Gonzalez,maria.g@email.com,+34-612-789456,22 Gran Via,Madrid,Spain,2024-09-30 18:20:15
+1005,Chen,Wei,chen.wei@email.com,+86-139-876543,89 Nanjing Road,Shanghai,China,2024-08-14 11:45:50
+1006,Ahmed,Ali,ahmed.ali@email.com,+971-50-1234567,15 Sheikh Zayed Rd,Dubai,UAE,2024-07-22 07:10:05
+1007,Sophie,Martin,sophie.m@email.com,+33-6-98765432,5 Champs-Élysées,Paris,France,2024-06-05 22:33:20
+1008,James,Brown,james.b@email.com,+1-555-789123,67 Maple Ave,Chicago,USA,2024-05-12 13:40:55
+1009,Yuki,Tanaka,yuki.t@email.com,+81-90-1234-5678,120 Shibuya,Tokyo,Japan,2024-04-18 16:25:30
+1010,Isabella,Rossi,isabella.rossi@email.com,+39-347-4567890,33 Via Roma,Rome,Italy,2024-03-02 08:55:45

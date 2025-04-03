@@ -1,0 +1,8 @@
+EntityId,FileName,Directory,FileSystem
+1,categories.csv,,
+2,customers.csv,,
+3,inventory.csv,,
+4,order_details.csv,,
+5,orders.csv,,
+6,payments.csv,,
+7,products.csv,,,,,,,
