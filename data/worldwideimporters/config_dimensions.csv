@@ -1,4 +1,4 @@
 FinalEntityName,EntityName,EntityType,base_url,relative_url,IsActive
-Customer,customer_oltp,dimension,https://raw.githubusercontent.com/moawasthi/SPARK_Practice/refs/heads/main/,data/worldwideimporters/customers_oltp.csv,1
+Customer,customer_oltp,dimension,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/customers_oltp.csv,1
 Customer,customer_categories,dimension,,,
-Customer,buying_group,dimension,https://raw.githubusercontent.com/moawasthi/SPARK_Practice/refs/heads/main/,data/worldwideimporters/buying_group.csv,1
+Customer,buying_group,dimension,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/buying_group.csv,1
