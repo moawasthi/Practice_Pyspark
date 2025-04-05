@@ -6,3 +6,4 @@ Customer,customer_categories,dimension,https://raw.githubusercontent.com,/moawas
 Customer,customer_info,dimension,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/customer_info.csv,1
 Orders,orders_oltp,fact,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/sales_orders.csv,1
 Orders,orderLine_oltp,fact,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/sales_orderLines.csv,1
+Date,date,dimension,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/date.csv,1
