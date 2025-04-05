@@ -4,3 +4,5 @@ Customer,customer_categories,dimension,,,
 Customer,buying_group,dimension,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/buying_group.csv,1
 Customer,customer_categories,dimension,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/customer_categories.csv,1
 Customer,customer_info,dimension,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/customer_info.csv,1
+Orders,orders_oltp,fact,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/sales_orders.csv,1
+Orders,orderLine_oltp,fact,https://raw.githubusercontent.com,/moawasthi/SPARK_Practice/refs/heads/main/data/worldwideimporters/sales_orderLines.csv,1
